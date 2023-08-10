@@ -36,7 +36,10 @@ Running
 ``` php artisan migrate ```
 
 ## MySQL dump file
-In this project also have mysql dump file for tersting purpose, you can import it to your mysql database
+Instead running migration, you can also import this sql dump file to your database, the existing data is for testing this application
+```
+https://github.com/juangsalaz/ticmi-dashboard/blob/main/ticmi-db_2023-08-10.sql
+```
 
 ## Images
 <img width="1440" alt="Screen Shot 2023-08-10 at 22 00 12" src="https://github.com/juangsalaz/ticmi-dashboard/assets/7124362/cd30dfda-6352-4f44-842e-a584f4cdaf07">
