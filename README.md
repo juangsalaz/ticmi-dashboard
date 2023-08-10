@@ -41,6 +41,16 @@ Instead running migration, you can also import this sql dump file to your databa
 https://github.com/juangsalaz/ticmi-dashboard/blob/main/ticmi-db_2023-08-10.sql
 ```
 
+## Demo
+For demo, please to access this url
+```
+http://103.37.125.116:9005/login
+```
+```
+username: juang@gmail.com
+password: juang354
+```
+
 ## Images
 <img width="1440" alt="Screen Shot 2023-08-10 at 22 00 12" src="https://github.com/juangsalaz/ticmi-dashboard/assets/7124362/cd30dfda-6352-4f44-842e-a584f4cdaf07">
 
