@@ -41,8 +41,11 @@ Instead running migration, you can also import this sql dump file to your databa
 https://github.com/juangsalaz/ticmi-dashboard/blob/main/ticmi-db_2023-08-10.sql
 ```
 
-## Demo
-For demo, please to access this url
+## Running Local
+After that all setup, you can go to ```http://localhost:9005/login``` in your browser
+
+## Online Demo
+For online demo, please to access this url
 ```
 http://103.37.125.116:9005/login
 ```
